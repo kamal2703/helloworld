@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Addition");
+Console.WriteLine("sub");
 Console.WriteLine("Hello, World!");
 
 
