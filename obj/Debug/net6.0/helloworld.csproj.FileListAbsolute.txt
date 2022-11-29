@@ -1,0 +1,5 @@
+D:\224\helloworld\obj\Debug\net6.0\helloworld.csproj.AssemblyReference.cache
+D:\224\helloworld\obj\Debug\net6.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\224\helloworld\obj\Debug\net6.0\helloworld.AssemblyInfoInputs.cache
+D:\224\helloworld\obj\Debug\net6.0\helloworld.AssemblyInfo.cs
+D:\224\helloworld\obj\Debug\net6.0\helloworld.csproj.CoreCompileInputs.cache
